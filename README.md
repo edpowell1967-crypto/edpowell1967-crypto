@@ -12,7 +12,7 @@
 *Automation Engineer*
 *Automation engineer responsible for design, programming, deployment, troubleshooting, and project management. Technologies include, Allen Bradley PLC's, RS5, RS500, RS5000. AC and DC Drives from fractional HP to 1000 HP. Fanuc and ABB robotics. Telemecanique TSX PLC's, Emerson Control Techniques Drives, MMI programming including AB Panelview, Several SCADA system including WonderWare.… more*
 
-
+[Visit my LinkedIn](https://www.linkedin.com/in/edpowell1967)
 
 <!--
 **edpowell1967-crypto/edpowell1967-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
