@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I’m currently working on Digital Transformation for Industry and Corporate Energy Management System
 
 <!--
 **edpowell1967-crypto/edpowell1967-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
