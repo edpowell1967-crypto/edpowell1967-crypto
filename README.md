@@ -4,15 +4,7 @@
 ## I'm currently open to non-executive board and advisory roles, particularly with organizations navigating digital transformation, OT-IT convergence, or Industry 4.0 initiatives. My background spans four decades of industrial engineering plus hands-on work with platforms like Rockwell ControlLogix, OPC UA, AVEVA PI, and Azure/Databricks — I bring a rare bridge between plant-floor operations and enterprise digital strategy. Open to unpaid/non-compensated positions.
 ### Experience 40 Years Manufacturing Industry
 
-*Corporate Energy Management System Product Owner - Industry 4.0*
-*Corporate cloud based energy management system product owner*
-*Digital Transformation Officer TEC*
-*Responsible for the ideation, deployment, and adoption of machine connected digital tools across all manufacturing facilities in group Michelin worldwide to create value and improve performance. Using AI, ML, LLM models to reduce work, improve problem solving, and to eliminate machine breakdown.*
-*Microsoft Azure, Large Language Models (LLM) and +20 skills*
-*Automation Engineer*
-*Automation engineer responsible for design, programming, deployment, troubleshooting, and project management. Technologies include, Allen Bradley PLC's, RS5, RS500, RS5000. AC and DC Drives from fractional HP to 1000 HP. Fanuc and ABB robotics. Telemecanique TSX PLC's, Emerson Control Techniques Drives, MMI programming including AB Panelview, Several SCADA system including WonderWare.… more*
 
-[Visit my LinkedIn](https://www.linkedin.com/in/edpowell1967)
 
 <!--
 **edpowell1967-crypto/edpowell1967-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
